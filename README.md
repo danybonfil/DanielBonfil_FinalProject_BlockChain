@@ -18,7 +18,9 @@
 ## Step 2. Install NPM Modules
 * Using WSL
 > [ $ cd /mnt/c/users/ "your directory" ]
+
 > [ $ cd voting_blockchain_final]
+
 > [ $ npm install]
 
 ## Step 3. Start Ganache
