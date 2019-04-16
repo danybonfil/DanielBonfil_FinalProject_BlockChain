@@ -13,7 +13,7 @@
 - **Opera: https://www.opera.com/  (There is a problem both with Chrome and Firefox)
 
 ## Step 1. Clone Repository
-* git clone https://github.com/
+* git clone https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain
 
 ## Step 2. Install NPM Modules
 * Using WSL
