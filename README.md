@@ -10,10 +10,10 @@
 - Truffle: https://github.com/trufflesuite/truffle
 - Ganache: http://truffleframework.com/ganache/
 - Metamask: https://metamask.io/
-- **Opera: https://www.opera.com/  (There is a problem both with Chrome and Firefox)
+- **Opera: https://www.opera.com/  (There is a problem both with Chrome and Firefox)**
 
 ## Step 1. Clone Repository
-* git clone https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain
+> [ $ git clone https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain]
 
 ## Step 2. Install NPM Modules
 * Using WSL
