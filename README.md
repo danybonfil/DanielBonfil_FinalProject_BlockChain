@@ -1,7 +1,45 @@
+
+# ***Daniel Bonfil - 1801214680***
+
+# Voting Decentralized Application 
+## Smartcontract on Ethereum BlockChain
+
+## Follow the steps below to download, install, and run this project.
+Full Tutorial by Dapp University:** https://youtu.be/3681ZYbDSSk
+
+## Dependencies
+* Make sure to install the following:
+* NPM: https://nodejs.org
+* Truffle: https://github.com/trufflesuite/truffle
+* Ganache: http://truffleframework.com/ganache/
+* Metamask: https://metamask.io/
+**Opera: https://www.opera.com/  (There is a problem both with Chrome and Firefox)
+
+## Step 1. Clone the project
+* git clone https://github.com/
+
+## Step 2. Install dependencies
+* $ cd election-dapp
+* $ npm install
+
+## Step 3. Start Ganache
+* Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance. See free video tutorial for full explanation.
+
+## Step 4. Compile & Deploy Election Smart Contract
+* $ truffle migrate --reset You must migrate the election smart contract each time your restart ganache.
+
+## Step 5. Configure Metamask
+* See free video tutorial for full explanation of these steps:
+* Unlock Metamask
+* Connect metamask to your local Etherum blockchain provided by Ganache.
+* Import an account provided by ganache.
+
+## Step 6. Run the Front End Application
+* $ npm run dev Visit this URL in your browser: http://localhost:3000
+
+
+
 # Voting Dapp Whitepaper - Smart Contract on Ethereum - FinalProject_BlockChain
-
-## ***Daniel Bonfil - 1801214680***
-
 ## Introduction
 The motivation for proposing this decentralized application (Dapp) raises from the new system of referendums that the Mexican Government implemented, which can be improved by including a hybrid of blockchain digital and physical voting. The past July of 2018, Mexico had general elections for president, 
 
