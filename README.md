@@ -1,42 +1,43 @@
-
 # ***Daniel Bonfil - 1801214680***
 
 # Voting Decentralized Application 
 ## Smartcontract on Ethereum BlockChain
 
-## Follow the steps below to download, install, and run this project.
-Full Tutorial by Dapp University:** https://youtu.be/3681ZYbDSSk
+## Install Dependencies
+* Using Windows 10:
+- WLS Ubuntu: https://docs.microsoft.com/en-us/windows/wsl/install-win10
+- NPM: https://nodejs.org
+- Truffle: https://github.com/trufflesuite/truffle
+- Ganache: http://truffleframework.com/ganache/
+- Metamask: https://metamask.io/
+- **Opera: https://www.opera.com/  (There is a problem both with Chrome and Firefox)
 
-## Dependencies
-* Make sure to install the following:
-* NPM: https://nodejs.org
-* Truffle: https://github.com/trufflesuite/truffle
-* Ganache: http://truffleframework.com/ganache/
-* Metamask: https://metamask.io/
-**Opera: https://www.opera.com/  (There is a problem both with Chrome and Firefox)
-
-## Step 1. Clone the project
+## Step 1. Clone Repository
 * git clone https://github.com/
 
-## Step 2. Install dependencies
-* $ cd election-dapp
-* $ npm install
+## Step 2. Install NPM Modules
+* Using WSL
+''' $ cd /mnt/c/users/ "your directory"
+''' $ cd voting_blockchain_final
+''' $ npm install
 
 ## Step 3. Start Ganache
-* Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance. See free video tutorial for full explanation.
+* Start Ganache and make sure to be connected to "HTTP://127.0.0.1:7545"
 
 ## Step 4. Compile & Deploy Election Smart Contract
-* $ truffle migrate --reset You must migrate the election smart contract each time your restart ganache.
+* Migrate and reset 
+''' $ truffle migrate --reset 
 
 ## Step 5. Configure Metamask
-* See free video tutorial for full explanation of these steps:
-* Unlock Metamask
-* Connect metamask to your local Etherum blockchain provided by Ganache.
-* Import an account provided by ganache.
+- Connect Metamask with Ganache by using RPC: http://localhost:7545
+- Import Ganache account by copying Private Key.
 
 ## Step 6. Run the Front End Application
-* $ npm run dev Visit this URL in your browser: http://localhost:3000
+Opera should open local host, otherwise visit: http://localhost:3000
+''' $ npm run dev 
 
+
+## Full Tutorial by Dapp University:** https://youtu.be/3681ZYbDSSk
 
 
 # Voting Dapp Whitepaper - Smart Contract on Ethereum - FinalProject_BlockChain
