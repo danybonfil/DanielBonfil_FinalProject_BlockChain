@@ -25,10 +25,12 @@
 
 ## Step 3. Start Ganache
 * Start Ganache and make sure to be connected to "HTTP://127.0.0.1:7545"
+![](./0.ganache.png)
 
 ## Step 4. Compile & Deploy Election Smart Contract
 * Migrate and reset 
 > [ $ truffle migrate --reset ]
+![](./1.solidity.png)
 
 ## Step 5. Configure Metamask
 - Connect Metamask with Ganache by using RPC: http://localhost:7545
@@ -37,6 +39,8 @@
 ## Step 6. Run the Front End Application
 Opera should open local host, otherwise visit: http://localhost:3000
 > [ $ npm run dev ]
-
+![](./2.vote1.png)
+![](./3.voted.png)
+![](./4.vote2.png)
 
 ## Full Tutorial by Dapp University:** https://youtu.be/3681ZYbDSSk
