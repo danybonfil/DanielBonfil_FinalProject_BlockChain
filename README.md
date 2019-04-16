@@ -17,16 +17,16 @@
 
 ## Step 2. Install NPM Modules
 * Using WSL
-''' $ cd /mnt/c/users/ "your directory"
-''' $ cd voting_blockchain_final
-''' $ npm install
+[ $ cd /mnt/c/users/ "your directory" ]
+[ $ cd voting_blockchain_final]
+[ $ npm install]
 
 ## Step 3. Start Ganache
 * Start Ganache and make sure to be connected to "HTTP://127.0.0.1:7545"
 
 ## Step 4. Compile & Deploy Election Smart Contract
 * Migrate and reset 
-''' $ truffle migrate --reset 
+[ $ truffle migrate --reset ]
 
 ## Step 5. Configure Metamask
 - Connect Metamask with Ganache by using RPC: http://localhost:7545
@@ -34,7 +34,7 @@
 
 ## Step 6. Run the Front End Application
 Opera should open local host, otherwise visit: http://localhost:3000
-''' $ npm run dev 
+[ $ npm run dev ]
 
 
 ## Full Tutorial by Dapp University:** https://youtu.be/3681ZYbDSSk
