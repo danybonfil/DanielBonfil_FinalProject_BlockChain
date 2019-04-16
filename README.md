@@ -25,8 +25,7 @@
 
 ## Step 3. Start Ganache
 * Start Ganache and make sure to be connected to "HTTP://127.0.0.1:7545"
-*[Ganache](https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain/blob/master/screenshots/0.solidity%20wsl.png)*
-https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain/blob/master/screenshots/1.ganache.png
+image:: https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain/blob/master/screenshots/1.ganache.png
 
 ## Step 4. Compile & Deploy Election Smart Contract
 * Migrate and reset 
