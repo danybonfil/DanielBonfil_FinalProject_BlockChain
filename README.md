@@ -30,7 +30,7 @@
 ## Step 4. Compile & Deploy Election Smart Contract
 * Migrate and reset 
 > [ $ truffle migrate --reset ]
-![alt text](https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain/blob/master/screenshots/0.solidity.png)
+![alt text](https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain/blob/master/screenshots/0.solidity wls.png)
 
 ## Step 5. Configure Metamask
 - Connect Metamask with Ganache by using RPC: http://localhost:7545
