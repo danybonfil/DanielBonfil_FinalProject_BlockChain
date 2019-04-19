@@ -7,11 +7,12 @@ The motivation for proposing this decentralized application (dApp) raises from t
 Incorporating new policies is never easy.
 
 # Background:
+It has been hypothesized that *direct democratic institutions* make politicians more accountable – and that this would lead to policy choices that are closer to the preferences of the citizens. In real-world societies beyond a certain size, *representative and direct democracy are not an alternative*. Rather, a different degree of direct democratic institutions is combined with representative institutions, as no sizeable society can decide on all issues directly. (Brousseau E., 2008)
 
 # Case Studies:
--USA
--Brazil
--Estonia
+- USA
+- Brazil
+- Estonia
 
 ## Project approach:
 
