@@ -16,8 +16,18 @@ For a democratic tool to be succesful, the following should be considered:
 - Prevent the use of this tool for the antagonization of different interest groups
 - Enhance rather than deteriorating a social involvement 
 - Strengthen public confidence in public administration
+- Recognize the processes of prior and due consultation
+- Promote the exercise of the right to self-determination
+- Recognize the right of democratic participation in the national development planning system
+- Give each citizen the right to participate in matters of public interest
+  - The pluricultural State of law bases its unity on the diversity of the people that make it up and on the right of different cultures to preserve, reproduce and flourish.
+  
+In the same way, the new referendum should take into account:
+  - The resolution of matters of national interest should be resolved via:
+    - Negotiation and informed concession, based on a just and sustainable future.
+    - Should provide information to allow any decision to be, free, informed, transparent and fair.
 
-Nevertheless, applying technologies to the democratic process of a country does not guarantee either that the process will be more efficient, accurrate or transparent. On the other hand, Mexico can be inspired by the learning curve of other countries that have achieved the digitalization of the voting process up to certain extent. This however, does not imply that the implementation in other countries would apply the same way into the democratic system in Mexico, but the knowledge of them with a combination of local support of federal and state government could help the Mexican Government to take a step towards a stronger democratic state.
+Nevertheless, applying technologies to the democratic process of a country does not guarantee either that the process will be more efficient, accurrate or transparent. On the other hand, Mexico can be inspired by the learning curve of other countries that have achieved the digitalization of the voting process up to certain extent. This however, does not imply that the implementation in other countries would apply the same way into the democratic system in Mexico, but the knowledge of them with a combination of local support of federal and state government could help the INE to take a step towards a stronger democratic state.
 
 # Face the obsolecense of the current Paper Ballot system:
 Paper Ballots:
