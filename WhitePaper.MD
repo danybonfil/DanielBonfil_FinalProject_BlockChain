@@ -73,7 +73,7 @@ Paper Ballots:
     - P: Voter population 
 
 ## Improvement
-  - The project can certainly be improvement by the better integration of Hyperledger.
+  - The project can certainly be improved by the better integration of Hyperledger.
   - Interest of the Mexican Government and its institutions.
   - Involvement of Local players such as: https://www.stateofthedapps.com/dapps/electchain
 
