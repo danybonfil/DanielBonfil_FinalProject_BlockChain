@@ -43,4 +43,6 @@ Opera should open local host, otherwise visit: http://localhost:3000
 ![alt text](https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain/blob/master/screenshots/3.voted.png)
 ![alt text](https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain/blob/master/screenshots/4.vote2.png)
 
+## For every vote, you must create a new account in Metamask. You can send ETH from the main account to the new account. Once you have done that you can register more votes. Each account would be the equivalent to a Voting ID.
+
 ## Full Tutorial by Dapp University:** https://youtu.be/3681ZYbDSSk
