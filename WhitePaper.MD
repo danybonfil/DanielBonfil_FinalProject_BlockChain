@@ -2,7 +2,7 @@
 # Voting dApp - Smart Contract on Ethereum - FinalProject_BlockChain
 ## Introduction:
 
-The motivation for proposing this decentralized application (dApp) raises from the new system of referendums that the Mexican Government implemented, which can be improved by including a hybrid of blockchain digital and physical voting. The past July of 2018, Mexico had general elections for president, and has underwent three referendums that have had immediate impact in the future of the Mexican people and the countries' economy. The Instituto Nacional Electoral (INE), is the institution responsible of preparation, execution and definition of the countries electoral processes.
+The motivation for proposing this decentralized application (dApp) raises from the new system of referendums that the Mexican Government implemented, which can be improved by including a hybrid of blockchain digital and physical voting. The past July of 2018, Mexico had general elections for president, and has underwent three referendums that have had immediate impact in the future of the Mexican people and the countries' economy. The Instituto Nacional Electoral [INE](https://www.ine.mx/credencial/estadisticas-lista-nominal-padron-electoral/), is the institution responsible of preparation, execution and definition of the countries electoral processes.
 
 # Background:
 - It has been hypothesized that *direct democratic institutions* make politicians more accountable –and that this would lead to policy choices that are closer to the preferences of the citizens. 
@@ -80,4 +80,5 @@ Paper Ballots:
 ## Reference
 * [Blockchain at Berkeley, 2018 Fall](https://blockchain.berkeley.edu/courses/fall-2018-fundamentals-decal/) (__DeCal__): Slides, Youtube lectures available (Uploaded in [CMS](http://cms.phbs.pku.edu.cn/claroline/document/document.php?cidReset=true&cidReq=FIN533))
 * [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/) (Princeton textbook) by Narayanan, Bonneau, Felten, Miller, and Goldfeder ([draft download](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)):
+* [IBM Hyperledger](https://developer.ibm.com/patterns/voting-app-hyperledger-ethereum/)
 
