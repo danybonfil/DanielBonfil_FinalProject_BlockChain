@@ -2,7 +2,7 @@
 # Voting dApp - Smart Contract on Ethereum - FinalProject_BlockChain
 ## Introduction:
 
-The motivation for proposing this decentralized application (dApp) raises from the new system of referendums that the Mexican Government implemented, which can be improved by including a hybrid of blockchain digital and physical voting. The past July of 2018, Mexico had general elections for president, and has underwent three referendums that have had immediate impact in the future of the Mexican people and the countries' economy.
+The motivation for proposing this decentralized application (dApp) raises from the new system of referendums that the Mexican Government implemented, which can be improved by including a hybrid of blockchain digital and physical voting. The past July of 2018, Mexico had general elections for president, and has underwent three referendums that have had immediate impact in the future of the Mexican people and the countries' economy. The Instituto Nacional Electoral (INE), is the institution responsible of preparation, execution and definition of the countries electoral processes.
 
 # Background:
 - It has been hypothesized that *direct democratic institutions* make politicians more accountable –and that this would lead to policy choices that are closer to the preferences of the citizens. 
@@ -37,6 +37,21 @@ Paper Ballots:
 - In the case of [Estonia](https://estoniaevoting.org/), internally they believe to have an efficient and secure tool. However, international studies have raised the question as to the extent of its security as well as the possible intervention by neighboring states like Russia. Hence, cybersecurity experts have warned about systemic malware attacks, privacy breaches, and "denial of service" attacks that can compromise the entire countrie's election system. 
 
 ## Project approach:
+- **The information will be Centralized by the INE** but the system would use a decentralized blockchain with Hyperledger and Ethereum. Every citizen registered and able to vote will be able to do so by:
+  - 1. Presenting its voting id the day of the elections. [ID would act as Public Key]()
+  - 2. Signing the vote with the digital fingerprint recorded by the INE. [Finger Print would act as Private Key]()
+  - 3. Casting the vote would need the [Digital Signature]() that will be a cobination matching both 1 & 2.
+
+- The proposal suggests a pilot project in the 4 strategic cities of Mexico:
+  - Mexico City
+  - Monterrey
+  - Guadalajara
+  - Queretaro
+  
+- This will be achieved by:
+  - Developing an enhanced app of the one presented in this WhitePaper using the same Ethereum standards, meaning it uses the “gas” execution fee to pay for transactions. 
+ - And the combination of a Centralized Private Blockchain which is Hyperledger Fabric and its network only host this decentralized app and make it easy to deploy and process Solidity smart contracts. The replacement for Ethereum’s gas in the Hyperledger Fabric in general is a digital token that’s created with chaincode.
+  
 
 # Pricing
 TUSD: k*P
