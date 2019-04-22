@@ -49,6 +49,6 @@ Opera should open local host, otherwise visit: http://localhost:3000
 - You can send ETH from the main account to the new account. 
 - Once you have done that you can register more votes. Each account would be the equivalent to a Voting ID. 
 
-[![Watch the video](https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain/blob/master/screenshots/4.vote2.png)](https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain/blob/master/screenshots/VoteBlock.wmv)
+[![Watch the video]](https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain/blob/master/screenshots/VoteBlock.wmv)
 
 ## Full Tutorial by Dapp University:** https://youtu.be/3681ZYbDSSk
