@@ -38,9 +38,9 @@ Paper Ballots:
 
 ## Project approach:
 - **The information will be Centralized by the INE** but the system would use a decentralized blockchain with Hyperledger and Ethereum. Every citizen registered and able to vote will be able to do so by:
-  - 1. Presenting its voting id the day of the elections. [ID would act as Public Key]()
-  - 2. Signing the vote with the digital fingerprint recorded by the INE. [Finger Print would act as Private Key]()
-  - 3. Casting the vote would need the [Digital Signature]() that will be a cobination matching both 1 & 2.
+  - 1 Presenting its voting id the day of the elections. [ID would act as Public Key](https://github.com/PHBS/2018.M3.BlockChain/wiki/Public-Key-Infrastructure-(PKI))
+  - 2 Signing the vote with the digital fingerprint recorded by the INE. [Finger Print would act as Private Key](https://github.com/PHBS/2018.M3.BlockChain/wiki/Public-Key-Infrastructure-(PKI))
+  - 3 Casting the vote would need the [Digital Signature](https://github.com/PHBS/2018.M3.BlockChain/wiki/Public-Key-Infrastructure-(PKI)) that will be a cobination matching both 1 & 2.
 
 - The proposal suggests a pilot project in the 4 strategic cities of Mexico:
   - Mexico City
@@ -50,14 +50,24 @@ Paper Ballots:
   
 - This will be achieved by:
   - Developing an enhanced app of the one presented in this WhitePaper using the same Ethereum standards, meaning it uses the “gas” execution fee to pay for transactions. 
- - And the combination of a Centralized Private Blockchain which is Hyperledger Fabric and its network only host this decentralized app and make it easy to deploy and process Solidity smart contracts. The replacement for Ethereum’s gas in the Hyperledger Fabric in general is a digital token that’s created with chaincode.
+ - And the combination of a Centralized Private Blockchain which is Hyperledger Fabric and its network only host this decentralized app and make it easy to deploy and process Solidity smart contracts. 
+- Finally, the replacement for Ethereum’s gas in the Hyperledger Fabric in general is a digital token that’s created with chaincode.
   
-
 # Pricing
-TUSD: k*P
+- The total cost of the election will be calculated upon the, total number of people multiplied by the gas designated price.
+- Depending on the population estimated for the cities proposed, the threshold of gas price would be calculated to its exchange rate in ETH/USD.
 
-TUSD: Election Reserved Tokens in USD for election a
-k: Ethereumm Blockchain Gas Network Fee (weighted average per unit, by population thresholds) 
-P: Voter population 
+  - TUSD: k*P
+
+    - TUSD: Election Reserved Tokens in USD for election a
+    - k: Ethereumm Blockchain Gas Network Fee (weighted average per unit, by population thresholds) 
+    - P: Voter population 
+
+## Improvement
+  - The project can certainly be improvement by the better integration of Hyperledger.
+  - Interest of the Mexican Government and Institutions.
+  - Involvement of Local players such as:
 
 ## Reference
+* [Blockchain at Berkeley, 2018 Fall](https://blockchain.berkeley.edu/courses/fall-2018-fundamentals-decal/) (__DeCal__): Slides, Youtube lectures available (Uploaded in [CMS](http://cms.phbs.pku.edu.cn/claroline/document/document.php?cidReset=true&cidReq=FIN533))
+* [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/) (Princeton textbook) by Narayanan, Bonneau, Felten, Miller, and Goldfeder ([draft download](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)): 
