@@ -20,22 +20,21 @@ For a democratic tool to be succesful, the following should be considered:
 Nevertheless, applying technologies to the democratic process of a country does not guarantee either that the process will be more efficient, accurrate or transparent. On the other hand, Mexico can be inspired by the learning curve of other countries that have achieved the digitalization of the voting process up to certain extent. This however, does not imply that the implementation in other countries would apply the same way into the democratic system in Mexico, but the knowledge of them with a combination of local support of federal and state government could help the Mexican Government to take a step towards a stronger democratic state.
 
 # Face the obsolecense of the current Paper Ballot system:
-| PAPER BALLOTS | Costs | Integrity | Accesibility |
-| a | Paper and Materials | Corruption Vulnerabilities | Retired Municipalities |
-| a | Polling Stations | Human Error Vulnerabilities | Voters with Disabilities |
-| a | Labor | Counting Time | a |
-| a | Type | Theft or Fire | a |
+Paper Ballots:
+  - Cost: Paper and Materials, Polling Stations, Labor
+  - Integrity: Corruption, Human Error, Counting Time Theft or fire.
+  - Accesibility: Retired Municipalities, Voters with Disabilities
 
 # Case Studies:
-- [!USA](https://www.businessinsider.com/22-states-that-allow-you-to-vote-online-2016-9) - Has notable development with 25 states allowing some voters to submit their ballots electronically.
-- [!Brazil](https://arstechnica.com/tech-policy/2018/06/in-a-blow-to-e-voting-critics-brazil-suspends-use-of-all-paper-ballots/) - Introduced Electronic Voting Machines (EVM) in 1996. By 2000, elections were fully electronic with a requirement of only 5% ballot to use paper. Is working towards complete digitalization and cybersecutiry reinforcement.
-- [!Estonia](https://e-estonia.com/solutions/e-governance/i-voting/) - The most advanced country, with a highly-digitalized culture and the system "i-Voting" which by 2005 became the first country in the world to hold nation-wide elections using this method.  The system, allows voters to cast their ballots from any internet-connected computer anywhere in the world. 
+- [USA](https://www.businessinsider.com/22-states-that-allow-you-to-vote-online-2016-9) - Has notable development with 25 states allowing some voters to submit their ballots electronically.
+- [Brazil](https://arstechnica.com/tech-policy/2018/06/in-a-blow-to-e-voting-critics-brazil-suspends-use-of-all-paper-ballots/) - Introduced Electronic Voting Machines (EVM) in 1996. By 2000, elections were fully electronic with a requirement of only 5% ballot to use paper. Is working towards complete digitalization and cybersecutiry reinforcement.
+- [Estonia](https://e-estonia.com/solutions/e-governance/i-voting/) - The most advanced country, with a highly-digitalized culture and the system "i-Voting" which by 2005 became the first country in the world to hold nation-wide elections using this method.  The system, allows voters to cast their ballots from any internet-connected computer anywhere in the world. 
 
 # Zero Sum Game?
 
 - In the case of USA, the approach as been made by each state. But this has enabled to some USA citizens the hability to cast a vote when before they were not able and to others, the convenience of online voting.
 - In the case of Brazil, scandals natural to the incorporation to unknown technologies rised on parallel with its inclusion. However, after 23 years of cohexistance, the country has achieved to tackle the scale of the task, reduce the vote counting time, and hence the tension and uncertainty of the post-election period. 
-- In the case of [!Estonia](https://estoniaevoting.org/), internally they believe to have an efficient and secure tool. However, international studies have raised the question as to the extent of its security as well as the possible intervention by neighboring states like Russia. Hence, cybersecurity experts have warned about systemic malware attacks, privacy breaches, and "denial of service" attacks that can compromise the entire countrie's election system. 
+- In the case of [Estonia](https://estoniaevoting.org/), internally they believe to have an efficient and secure tool. However, international studies have raised the question as to the extent of its security as well as the possible intervention by neighboring states like Russia. Hence, cybersecurity experts have warned about systemic malware attacks, privacy breaches, and "denial of service" attacks that can compromise the entire countrie's election system. 
 
 ## Project approach:
 
