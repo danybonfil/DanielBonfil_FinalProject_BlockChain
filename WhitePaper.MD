@@ -20,11 +20,11 @@ For a democratic tool to be succesful, the following should be considered:
 Nevertheless, applying technologies to the democratic process of a country does not guarantee either that the process will be more efficient, accurrate or transparent. On the other hand, Mexico can be inspired by the learning curve of other countries that have achieved the digitalization of the voting process up to certain extent. This however, does not imply that the implementation in other countries would apply the same way into the democratic system in Mexico, but the knowledge of them with a combination of local support of federal and state government could help the Mexican Government to take a step towards a stronger democratic state.
 
 # Face the obsolecense of the current Paper Ballot system:
-|PAPER BALLOTS|
-|Costs|Integrity|Accesibility|
-|Paper	and	Materials|Corruption	Vulnerabilities|Retired Municipalities|
-|Polling	Stations|Human	Error	Vulnerabilities|Voters with Disabilities|
-|Labor|Counting Time| | 
+| PAPER BALLOTS |  |  |  |
+| Costs | Integrity | Accesibility |  |
+| Paper	and	Materials | Corruption	Vulnerabilities | Retired Municipalities |  |
+| Polling	Stations | Human	Error	Vulnerabilities | Voters with Disabilities |  |
+| Labor | Counting Time |  |  | 
 
 # Case Studies:
 - [!USA](https://www.businessinsider.com/22-states-that-allow-you-to-vote-online-2016-9) - Has notable development with 25 states allowing some voters to submit their ballots electronically.
