@@ -21,10 +21,10 @@ Nevertheless, applying technologies to the democratic process of a country does 
 
 # Face the obsolecense of the current Paper Ballot system:
 | PAPER BALLOTS | Costs | Integrity | Accesibility |
-| . | Paper and Materials | Corruption Vulnerabilities | Retired Municipalities |
-| . | Polling Stations | Human Error Vulnerabilities | Voters with Disabilities |
-| . | Labor | Counting Time | . |
-| . | Type | Theft / Fire | . |
+| a | Paper and Materials | Corruption Vulnerabilities | Retired Municipalities |
+| a | Polling Stations | Human Error Vulnerabilities | Voters with Disabilities |
+| a | Labor | Counting Time | a |
+| a | Type | Theft or Fire | a |
 
 # Case Studies:
 - [!USA](https://www.businessinsider.com/22-states-that-allow-you-to-vote-online-2016-9) - Has notable development with 25 states allowing some voters to submit their ballots electronically.
