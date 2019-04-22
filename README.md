@@ -1,6 +1,6 @@
 # ***Daniel Bonfil - 1801214680***
 
-# Voting Decentralized Application 
+# VoteChain     -     Voting Decentralized Application (dApp) 
 ## Smartcontract on Ethereum BlockChain
 
 ## Install Dependencies
