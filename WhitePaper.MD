@@ -1,5 +1,8 @@
 # VoteChain Whitepaper
-# Voting dApp - Smart Contract on Ethereum - FinalProject_BlockChain
+# Voting dApp - Smart Contract on Ethereum - FinalProject_BlockChain !
+[Find the project at State of dApps!](https://www.stateofthedapps.com/dapps/votechain)
+[alt text](https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain/blob/master/screenshots/sodapgray.png)
+
 ## Introduction:
 
 The motivation for proposing this decentralized application (dApp) raises from the new system of referendums that the Mexican Government implemented, which can be improved by including a hybrid of blockchain digital and physical voting. The past July of 2018, Mexico had general elections for president, and has underwent three referendums that have had immediate impact in the future of the Mexican people and the countries' economy. The Instituto Nacional Electoral [INE](https://www.ine.mx/credencial/estadisticas-lista-nominal-padron-electoral/), is the institution responsible of preparation, execution and definition of the electoral processes. However, given the nature of "Public Consultation" the INE acts as a mere advisor to the civil organization that is in charge of the complete logistics through [México Decide](https://mexicodecide.com.mx/).
