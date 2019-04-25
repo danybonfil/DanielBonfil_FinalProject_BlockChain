@@ -1,8 +1,7 @@
 # VoteChain Whitepaper
 # Voting dApp - Smart Contract on Ethereum - FinalProject_BlockChain !
 [Find the project at State of dApps!](https://www.stateofthedapps.com/dapps/votechain)
-
-![](https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain/blob/master/screenshots/sodapgray.png =250x250)
+![alt text](https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain/blob/master/screenshots/sodapblack.png)
 
 ## Introduction:
 
@@ -87,3 +86,5 @@ Paper Ballots:
 * [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/) (Princeton textbook) by Narayanan, Bonneau, Felten, Miller, and Goldfeder ([draft download](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)):
 * [IBM Hyperledger](https://developer.ibm.com/patterns/voting-app-hyperledger-ethereum/)
 
+
+![alt text](https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain/blob/master/screenshots/sodapgray.png)
