@@ -1,7 +1,7 @@
 # VoteChain Whitepaper
 # Voting dApp - Smart Contract on Ethereum - FinalProject_BlockChain !
 [Find the project at State of dApps!](https://www.stateofthedapps.com/dapps/votechain)
-![alt text](https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain/blob/master/screenshots/sodapgray.png =100x)
+![alt text](https://github.com/danybonfil/DanielBonfil_FinalProject_BlockChain/blob/master/screenshots/sodapgray.png  | width=100)
 
 ## Introduction:
 
